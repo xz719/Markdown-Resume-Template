@@ -16,7 +16,7 @@
 
 ## 工作及教育经历
     
-* w武汉大学&emsp;&emsp;&emsp;&emsp;&emsp;2017.9~2019.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业|本科(985院校)          
+* 武汉大学&emsp;&emsp;&emsp;&emsp;&emsp;2017.9~2019.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业|本科(985院校)          
 
 ## 专业技能
 
